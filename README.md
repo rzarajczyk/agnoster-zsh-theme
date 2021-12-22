@@ -2,9 +2,7 @@
 
 Original theme at https://github.com/agnoster/agnoster-zsh-theme
 
-Please pay respect for the original author!
-
-My modifications are only some customizations made specifically for my!
+My modifications are only some customizations made specifically for myself!
 
 ## Changes in comparison to the original Agnoster:
  * displaying git user.name in the prompt (if it is equal to the $DEFAULT_USER then an emoji 🧑 is shown)
